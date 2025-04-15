@@ -1,7 +1,17 @@
 Algoritmo_Finalizar_Ambiente
 
 ínicio
-
+- esperar o professor fazer a chamada
+- pegar os computadores
+- ver as tarefas que iremos realizar no dia
+- realizar as tarefas
+- ir para o café
+- voltar e terminar a tarefa
+- ir para o almoço
 
 
 Fim
+- pegar o paninho
+- limpar os mouses e o computador
+- esperar a chamada para guardar o mouse
+- guardar o computador
