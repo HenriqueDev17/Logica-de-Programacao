@@ -1,17 +1,20 @@
 Algoritmo_Finalizar_Ambiente
 
-ínicio
-- esperar o professor fazer a chamada
-- pegar os computadores
-- ver as tarefas que iremos realizar no dia
-- realizar as tarefas
-- ir para o café
-- voltar e terminar a tarefa
-- ir para o almoço
-
-
-Fim
-- pegar o paninho
-- limpar os mouses e o computador
-- esperar a chamada para guardar o mouse
-- guardar o computador
+1 - desligar o computador
+2 - verificar se ele desligou mesmo
+3 - levantar da cadeira
+4 - ir pegar o pano para limpar o computador
+5 - voltar para a mesa
+6 - sentar na cadeira
+7 - limpar o computador
+8 - limpar o mouse
+9 - levantar da cadeira
+10 - guardar o pano
+11 - voltar para a cadeira
+12 - esperar o representante chamar
+13 - desconectar o mouse do computador
+14 - levar o mouse para o representante
+15 - guardar o computador
+16 - voltar para a mesa
+17 - arrumar os cabos
+18 - esperar o professor dar o comando para poder sair
